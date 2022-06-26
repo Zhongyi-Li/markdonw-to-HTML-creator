@@ -1,0 +1,27 @@
+{
+  "name": "mark-to-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhongyi-Li/markdonw-to-HTML-creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhongyi-Li/markdonw-to-HTML-creator/issues"
+  },
+  "homepage": "https://github.com/Zhongyi-Li/markdonw-to-HTML-creator#readme",
+  "devDependencies": {
+    "vite": "^2.9.12"
+  },
+  "dependencies": {
+    "highlight.js": "^11.5.1",
+    "marked": "^4.0.17"
+  }
+}
